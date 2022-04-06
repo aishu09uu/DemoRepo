@@ -1,0 +1,5 @@
+git init : to intialise
+
+two ways to create branch 
+git branch <branch Name>
+git checkout -b branchname
